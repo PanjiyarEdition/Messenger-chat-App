@@ -2,7 +2,7 @@
   $hostname = "localhost";
   $username = "root";
   $password = "";
-  $dbname = "panjiyar_edition messenger";
+  $dbname = "panjiyar_edition_messenger";
 
   $conn = mysqli_connect($hostname, $username, $password, $dbname);
   if(!$conn){
