@@ -6,7 +6,7 @@
 **Real-time Chatting:**
 •	Developed a real-time chat feature for users to communicate seamlessly after logging into their accounts.
 
-Online/Offline Status:
+**Online/Offline Status:**
 •	Incorporated an online/offline status indicator for users, showing "Active Now" with a green indicator when they are online and "Offline Now" when inactive.
 
 Dashboard View:
