@@ -3,7 +3,7 @@
 **User Account Creation:**
 •	Implemented a user-friendly account creation process, allowing users to sign up securely.
 
-Real-time Chatting:
+**Real-time Chatting:**
 •	Developed a real-time chat feature for users to communicate seamlessly after logging into their accounts.
 
 Online/Offline Status:
@@ -18,9 +18,3 @@ Real-time User Availability:
 Technologies/Tools Used:
 •	Utilized HTML, CSS, Bootstrap, JavaScript, AJAX, MySQL.
 
-Achievements:
-•	Facilitated seamless and real-time communication among users through the chat application.
-•	Enhanced user experience with a clear indication of online and offline status.
-
-GitHub Repository:
-•	Shared the project code on GitHub for review: [Link to GitHub]
