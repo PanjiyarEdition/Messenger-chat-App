@@ -9,10 +9,10 @@
 **Online/Offline Status:**
 •	Incorporated an online/offline status indicator for users, showing "Active Now" with a green indicator when they are online and "Offline Now" when inactive.
 
-Dashboard View:
+**Dashboard View:**
 •	Created a user-friendly dashboard displaying all available users, making it easy for users to identify and connect with others.
 
-Real-time User Availability:
+**Real-time User Availability:**
 •	Enabled users to view the real-time availability status of other users on the dashboard.
 
 Technologies/Tools Used:
