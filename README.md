@@ -1,4 +1,4 @@
-<h1 text-align: center > CHAT APPLICATION </h1>
+<h1 style="text-align:center > CHAT APPLICATION </h1>
 
 **User Account Creation:**
 •	Implemented a user-friendly account creation process, allowing users to sign up securely.
