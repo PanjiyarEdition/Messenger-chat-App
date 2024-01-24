@@ -15,6 +15,6 @@
 **Real-time User Availability:**
 •	Enabled users to view the real-time availability status of other users on the dashboard.
 
-Technologies/Tools Used:
+**Technologies/Tools Used:**
 •	Utilized HTML, CSS, Bootstrap, JavaScript, AJAX, MySQL.
 
